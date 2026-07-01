@@ -246,6 +246,22 @@ A **CNN** multi-class satellite-image classifier built with **transfer learning*
 
 ---
 
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UsmanShahab18/UsmanShahab18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UsmanShahab18/UsmanShahab18/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/UsmanShahab18/UsmanShahab18/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>🎮 A snake that munches through my contribution graph — auto-updates every day.</sub>
+
+</div>
+
+---
+
 ## 🌱 Currently Exploring
 
 - 🕸️ &nbsp;**Graph Neural Networks** (E-GraphSAGE + GATv2) for network intrusion detection
