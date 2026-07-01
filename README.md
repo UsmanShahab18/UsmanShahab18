@@ -262,6 +262,23 @@ A **CNN** multi-class satellite-image classifier built with **transfer learning*
 
 ---
 
+## ♟️ Play Live Chess With Me
+
+<!--START:chess-->
+<!-- chess:startpos||playing|0 -->
+<div align="center">
+
+**♟️ Live Chess — you're White vs my bot (Black).**
+
+▶️ [**Start / Reset the game**](https://YOUR-CHESS-APP.vercel.app/api/move?reset=1)
+
+<sub>Click **Start**, then click a piece and its highlighted destination. No New Issue page — the board updates right here.</sub>
+
+</div>
+<!--END:chess-->
+
+---
+
 ## 🌱 Currently Exploring
 
 - 🕸️ &nbsp;**Graph Neural Networks** (E-GraphSAGE + GATv2) for network intrusion detection
