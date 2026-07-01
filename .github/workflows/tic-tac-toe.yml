@@ -1,0 +1,44 @@
+name: Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    # Only run for game issues (title starts with "ttt|")
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Apply move
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: python .github/ttt/ttt.py
+
+      - name: Commit updated board
+        run: |
+          git config user.name "tic-tac-toe-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md .github/ttt/board.json
+          git commit -m "Tic-Tac-Toe: move by @${{ github.event.issue.user.login }}" || echo "No changes to commit"
+          git push
+
+      - name: Close the move issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >
+          gh issue close ${{ github.event.issue.number }}
+          --repo ${{ github.repository }}
+          --comment "Move applied! ♻️ Head back to the profile to see the board — it refreshes in a few seconds. Thanks for playing! 🎮"
