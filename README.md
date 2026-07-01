@@ -268,25 +268,23 @@ A **CNN** multi-class satellite-image classifier built with **transfer learning*
 
 ---
 
-## 🎮 Play Tic-Tac-Toe With Me
+## 🎮 Beyond Code
 
-> You're **❌** vs my bot **⭕**. Click any empty square, press **"Submit new issue"** on the page that opens the bot plays your move, replies, and updates the board here (takes a few seconds to refresh).
+When I'm off the keyboard, you'll find me at a cricket pitch 🏏 or lost in a city-builder game 🎮 — and I love a good game of chess.
 
-<!--START:ttt-->
 <div align="center">
 
-<table>
-<tr><td align="center" width="70" height="70">❌</td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C1&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70">⭕</td></tr>
-<tr><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C3&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70">⭕</td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C5&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
-<tr><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C6&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70">❌</td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C8&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
-</table>
+![Cricket](https://img.shields.io/badge/🏏%20Cricket-Weekend%20Ritual-22D3EE?style=for-the-badge)
+![City Builders](https://img.shields.io/badge/🎮%20City--Builders-Cities%20Skylines-8a2be2?style=for-the-badge)
+![Unity Dev](https://img.shields.io/badge/🕹️%20Unity%20Games-I%20build%20them%20too-1a1a2e?style=for-the-badge)
 
-🧑‍💻 **Your turn — you're ❌.** Click any ⬜ to make your move.
+**♟️ Fancy a game of chess?**
 
-<a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Creset&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">🔄 New Game</a>
+[![Play Chess on Lichess](https://img.shields.io/badge/♟️%20Challenge%20me%20to%20Chess-Play%20on%20Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/?any#friend)
+
+<sub>One click — opens a live game on Lichess, no sign-up needed.</sub>
 
 </div>
-<!--END:ttt-->
 
 ---
 
