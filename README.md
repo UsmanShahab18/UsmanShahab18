@@ -17,35 +17,17 @@
 
 ---
 
-## ♟️ Play Live Chess With Me
+## ♟️ Play Chess With Me
 
-<!--START:chess-->
-<!-- chess:rnbqkbnr/1pp1pppp/8/pP1p4/P7/8/2PPPPPP/RNBQKBNR w KQkq a6 0 4|a4|playing|1782937346502 -->
 <div align="center">
 
-**♟️ Live Chess — you're White vs my bot (Black). No New Issue page — clicking updates the board in place.**
+Fancy a game? I built a full chess board you can play against my bot — **instant, right in the browser, no page reloads.**
 
-<table>
-<tr><td align="center" width="34" height="34">♜︎</td><td align="center" width="34" height="34">♞︎</td><td align="center" width="34" height="34">♝︎</td><td align="center" width="34" height="34">♛︎</td><td align="center" width="34" height="34">♚︎</td><td align="center" width="34" height="34">♝︎</td><td align="center" width="34" height="34">♞︎</td><td align="center" width="34" height="34">♜︎</td></tr>
-<tr><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34">♟︎</td></tr>
-<tr><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td></tr>
-<tr><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=b5" title="select b5">♙︎</a></td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">♟︎</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td></tr>
-<tr><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=a4" title="selected — click to deselect">🟨</a></td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td></tr>
-<tr><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td></tr>
-<tr><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34">&nbsp;</td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=c2" title="select c2">♙︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=d2" title="select d2">♙︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=e2" title="select e2">♙︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=f2" title="select f2">♙︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=g2" title="select g2">♙︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=h2" title="select h2">♙︎</a></td></tr>
-<tr><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=a1" title="select a1">♖︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=b1" title="select b1">♘︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=c1" title="select c1">♗︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=d1" title="select d1">♕︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=e1" title="select e1">♔︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=f1" title="select f1">♗︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=g1" title="select g1">♘︎</a></td><td align="center" width="34" height="34"><a href="https://chess-api-omega.vercel.app/api/move?sq=h1" title="select h1">♖︎</a></td></tr>
-</table>
+[![Play Chess](https://img.shields.io/badge/▶️%20Play%20Chess%20Now-Live%20on%20my%20site-8a2be2?style=for-the-badge&logo=lichess&logoColor=white)](https://usmanshahab18.github.io/chess/)
 
-♟️ **Your move (White).** Click one of your pieces, then its highlighted destination.
-
-<sub>🟨 selected &nbsp;·&nbsp; 🟩 can move here &nbsp;·&nbsp; 🟥 capture</sub>
-
-<a href="https://chess-api-omega.vercel.app/api/move?reset=1">🔄 New Game</a>
-
-<sub>Board updates a moment after each click — give your profile a refresh if it lags.</sub>
+<sub>You're White · the bot is Black · click a piece, then its destination.</sub>
 
 </div>
-<!--END:chess-->
 
 ---
 
