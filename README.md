@@ -20,7 +20,7 @@
 ## ♟️ Play Live Chess With Me
 
 <!--START:chess-->
-<!-- chess:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1||playing|1782936542144 -->
+<!-- chess:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1||playing|1782936560095 -->
 <div align="center">
 
 **♟️ Live Chess — you're White vs my bot (Black). No New Issue page — clicking updates the board in place.**
