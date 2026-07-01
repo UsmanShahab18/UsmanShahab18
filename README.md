@@ -265,7 +265,7 @@ A **CNN** multi-class satellite-image classifier built with **transfer learning*
 ## ♟️ Play Live Chess With Me
 
 <!--START:chess-->
-<!-- chess:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1||playing|1782935898201 -->
+<!-- chess:rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1||playing|1782935903193 -->
 <div align="center">
 
 **♟️ Live Chess — you're White vs my bot (Black). No New Issue page — clicking updates the board in place.**
