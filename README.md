@@ -276,14 +276,14 @@ A **CNN** multi-class satellite-image classifier built with **transfer learning*
 <div align="center">
 
 <table>
-<tr><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C0&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C1&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C2&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
-<tr><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C3&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C4&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C5&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
+<tr><td align="center" width="70" height="70">❌</td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C1&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C2&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
+<tr><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C3&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70">⭕</td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C5&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
 <tr><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C6&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C7&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td><td align="center" width="70" height="70"><a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Cmove%7C8&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">⬜</a></td></tr>
 </table>
 
-🧑‍💻 **Your turn you're ❌.** Click any ⬜ to make your move.
+🧑‍💻 **Your turn — you're ❌.** Click any ⬜ to make your move.
 
-<a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Creset&body=Press%20Submit%20new%20issue%20to%20start%20a%20new%20game.">🔄 New Game</a>
+<a href="https://github.com/UsmanShahab18/UsmanShahab18/issues/new?title=ttt%7Creset&body=Press%20Submit%20new%20issue%20and%20the%20bot%20will%20play%20your%20move.">🔄 New Game</a>
 
 </div>
 <!--END:ttt-->
