@@ -21,7 +21,7 @@
 
 <div align="center">
 
-Fancy a game? I built a full chess board where you can play against my bot **instantly, right in the browser — no page reloads.**
+Fancy a game? I built a full chess board where you can play against my bot **instantly, right in the browser no page reloads.**
 
 [![Play Chess](https://img.shields.io/badge/▶️%20Play%20Chess%20Now-Live%20on%20my%20site-8a2be2?style=for-the-badge&logo=lichess&logoColor=white)](https://usmanshahab18.github.io/chess/)
 
