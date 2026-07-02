@@ -21,7 +21,7 @@
 
 <div align="center">
 
-Fancy a game? I built a full chess board you can play against my bot **instant, right in the browser, no page reloads.**
+Fancy a game? I built a full chess board where you can play against my bot **instantly, right in the browser — no page reloads.**
 
 [![Play Chess](https://img.shields.io/badge/▶️%20Play%20Chess%20Now-Live%20on%20my%20site-8a2be2?style=for-the-badge&logo=lichess&logoColor=white)](https://usmanshahab18.github.io/chess/)
 
@@ -40,16 +40,16 @@ class MianUsman:
         self.education   = "BS Software Engineering @ Lahore Garrison University"
         self.graduation  = "Class of 2026"
         self.focus       = ["ML for Security", "LLM Integration", "Big Data"]
-        self.current_fyp = "PIDS Real-time Intrusion Detection System"
-        self.fun_fact    = "I ship full systems end-to-end model → API → dashboard"
+        self.current_fyp = "PIDS — Real-time Intrusion Detection System"
+        self.fun_fact    = "I ship full systems end-to-end: model → API → dashboard"
 
     def off_the_keyboard(self):
         return ["🏏 Cricket", "🎮 City-builder games"]
 ```
 
-- 🔭 &nbsp;Building **PIDS** a real-time IDS fusing a 4-stage ML pipeline with a local LLM behaviour engine
+- 🔭 &nbsp;Building **PIDS** — a real-time IDS fusing a 4-stage ML pipeline with a local LLM behaviour engine
 - 🧠 &nbsp;Deep into **ML for cybersecurity**, **LLM integration**, and **big-data threat intelligence**
-- 🌱 &nbsp;Trained models on the full **CICIDS2018** dataset *15.7M rows / 6 GB* at **98.24%** accuracy
+- 🌱 &nbsp;Trained models on the full **CICIDS2018** dataset *(15.7M rows / 6 GB)* at **98.24%** accuracy
 - 🏆 &nbsp;Won **Best Award** in the AI & ML Internship at DevelopersHub Corporation
 - 📫 &nbsp;Reach me at **mianusmanshahab18@gmail.com**
 - ⚡ &nbsp;Fun fact: I've built cybersecurity-themed **Unity games** for fun
@@ -129,7 +129,7 @@ class MianUsman:
 `Packages Group · Lahore`
 <sub>Aug – Sep 2025</sub>
 - Front-end for a **real-time AI detection** system (YOLOv8 mask detector)
-- Scalable **e-commerce platform** auth, catalogue, payments
+- Scalable **e-commerce platform** — auth, catalogue, payments
 - Data-visualisation dashboards for system performance
 
 </td>
@@ -140,9 +140,9 @@ class MianUsman:
 
 ## 🎓 Education & Certifications
 
-- 🏛️ &nbsp;**BS Software Engineering** Lahore Garrison University &nbsp;`2022 – 2026`
-- 🏆 &nbsp;**Best Award AI & Machine Learning Internship** DevelopersHub Corporation &nbsp;`Jun 2025`
-- 📜 &nbsp;**Machine Learning, AI & Data Science Certification** Ehunar &nbsp;`Feb 2025`
+- 🏛️ &nbsp;**BS Software Engineering** — Lahore Garrison University &nbsp;`2022 – 2026`
+- 🏆 &nbsp;**Best Award, AI & Machine Learning Internship** — DevelopersHub Corporation &nbsp;`Jun 2025`
+- 📜 &nbsp;**Machine Learning, AI & Data Science Certification** — Ehunar &nbsp;`Feb 2025`
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Real-time IDS fusing a **4-stage ML pipeline** with a local **Ollama LLM** behav
 <td width="50%" valign="top">
 
 ### 🐝 CyberHive Threat Intelligence Platform
-Big-data platform correlating threat intel at scale a **2-node Hadoop cluster** processing ~15 GB across CIC-IDS2018, NVD/CVE, Abuse.ch & GeoLite2, with an interactive **3D React + Three.js** dashboard.
+Big-data platform correlating threat intel at scale — a **2-node Hadoop cluster** processing ~15 GB across CIC-IDS2018, NVD/CVE, Abuse.ch & GeoLite2, with an interactive **3D React + Three.js** dashboard.
 > Hadoop · Spark · Hive · HBase
 
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
@@ -185,7 +185,7 @@ Big-data platform correlating threat intel at scale a **2-node Hadoop cluster** 
 <td width="50%" valign="top">
 
 ### 📰 [Fake News Detection](https://github.com/UsmanShahab18/Fake_Real_News_Detection)
-End-to-end **NLP pipeline** classifying news as real/fake at **93%** accuracy TF-IDF + SMOTE deployed via Flask & Tkinter. 🏆 *Best Award project.*
+End-to-end **NLP pipeline** classifying news as real/fake at **93%** accuracy — TF-IDF + SMOTE, deployed via Flask & Tkinter. 🏆 *Best Award project.*
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -205,7 +205,7 @@ Real-time face-mask detector on **YOLOv8n**, exported to **ONNX** for fast infer
 <td width="50%" valign="top">
 
 ### 🎮 [After Hours Cyber Escape Room](https://github.com/UsmanShahab18/After-Hours-Unity-Game)
-A **3D first-person escape room** built in Unity players solve **7 cybersecurity puzzles across 6 rooms** to break out. Immersive URP visuals and interaction-driven gameplay.
+A **3D first-person escape room** built in Unity — players solve **7 cybersecurity puzzles across 6 rooms** to break out. Immersive URP visuals and interaction-driven gameplay.
 > Unity · 3D · Cybersecurity-themed
 
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -279,9 +279,9 @@ A **CNN** multi-class satellite-image classifier built with **transfer learning*
 ## 🌱 Currently Exploring
 
 - 🕸️ &nbsp;**Graph Neural Networks** (E-GraphSAGE + GATv2) for network intrusion detection
-- 🤖 &nbsp;**LLM integration for security** behaviour reasoning over attack patterns with Ollama
+- 🤖 &nbsp;**LLM integration for security** — behaviour reasoning over attack patterns with Ollama
 - 🗄️ &nbsp;**Big-data threat intelligence** pipelines on Hadoop / Spark
-- ⚙️ &nbsp;Production-grade **MLOps** packaging models into real analyst-facing systems
+- ⚙️ &nbsp;Production-grade **MLOps** — packaging models into real analyst-facing systems
 
 ---
 
@@ -318,27 +318,13 @@ When I'm off the keyboard, you'll find me at a cricket pitch 🏏 or lost in a c
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=UsmanShahab18&label=Total%20Profile%20Views&color=8a2be2&style=for-the-badge)
-
-<img src="https://count.getloli.com/get/@UsmanShahab18?theme=moebooru" alt="visitor counter" />
-
-<sub>Thanks for stopping by you're visitor number above! 👆</sub>
-
-</div>
-
----
-
 ## 💬 Quote
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🤝 Open to AI/ML, Cybersecurity & Full-Stack opportunities let's build something secure.
+### 🤝 Open to AI/ML, Cybersecurity & Full-Stack opportunities — let's build something secure.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:2c5364,100:0f2027&height=120&section=footer" />
 
